@@ -1,6 +1,10 @@
 **Sample images of the PROJECT TEXTLAIRE**
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075739" src="https://github.com/user-attachments/assets/64f2ff2b-cac2-45b0-8797-d40c954c9d27" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075755" src="https://github.com/user-attachments/assets/07cf43b2-167d-4646-8397-d5c976646745" />
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075234" src="https://github.com/user-attachments/assets/68365b7c-abe1-4167-aeaa-96fc2354ad12" />
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075240" src="https://github.com/user-attachments/assets/44f9bb7b-f5f1-4037-b12c-929e6767b854" />
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075243" src="https://github.com/user-attachments/assets/e33a8ead-c551-4b64-a47e-38c2e33a92f2" />
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075248" src="https://github.com/user-attachments/assets/22bdf662-4def-4f7f-8103-c34b23396c77" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 080024" src="https://github.com/user-attachments/assets/7ff97955-040d-4da0-82a2-077792864541" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075940" src="https://github.com/user-attachments/assets/5d944884-fbc6-4363-92ca-572005e03911" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075641" src="https://github.com/user-attachments/assets/20a8f139-56ca-4884-a358-d9d2affb934c" />
@@ -15,10 +19,10 @@
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075304" src="https://github.com/user-attachments/assets/4c41bbbf-64cf-4a29-852b-183e11c833f8" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075257" src="https://github.com/user-attachments/assets/81f1dc5a-38f8-4496-b07a-33b9a045e5c5" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075253" src="https://github.com/user-attachments/assets/faf53b12-2b8d-4230-bead-a120e13622fb" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075248" src="https://github.com/user-attachments/assets/22bdf662-4def-4f7f-8103-c34b23396c77" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075243" src="https://github.com/user-attachments/assets/e33a8ead-c551-4b64-a47e-38c2e33a92f2" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075240" src="https://github.com/user-attachments/assets/44f9bb7b-f5f1-4037-b12c-929e6767b854" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075234" src="https://github.com/user-attachments/assets/68365b7c-abe1-4167-aeaa-96fc2354ad12" />
+
+
+
+
 
 # 🧵 Texlaire: Smart Textile Management System
 
