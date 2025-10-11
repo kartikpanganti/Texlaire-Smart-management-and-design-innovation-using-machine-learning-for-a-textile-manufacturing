@@ -1,8 +1,8 @@
 **Sample images of the PROJECT TEXTLAIRE**
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075739" src="https://github.com/user-attachments/assets/64f2ff2b-cac2-45b0-8797-d40c954c9d27" />
+<img width="1600" height="852" alt="Screenshot 2025-05-09 075755" src="https://github.com/user-attachments/assets/07cf43b2-167d-4646-8397-d5c976646745" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 080024" src="https://github.com/user-attachments/assets/7ff97955-040d-4da0-82a2-077792864541" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075940" src="https://github.com/user-attachments/assets/5d944884-fbc6-4363-92ca-572005e03911" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075755" src="https://github.com/user-attachments/assets/07cf43b2-167d-4646-8397-d5c976646745" />
-<img width="1600" height="852" alt="Screenshot 2025-05-09 075739" src="https://github.com/user-attachments/assets/64f2ff2b-cac2-45b0-8797-d40c954c9d27" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075641" src="https://github.com/user-attachments/assets/20a8f139-56ca-4884-a358-d9d2affb934c" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075634" src="https://github.com/user-attachments/assets/99a0ae69-efb8-485f-8d1c-d70869615bd6" />
 <img width="1600" height="852" alt="Screenshot 2025-05-09 075629" src="https://github.com/user-attachments/assets/77d46964-01f2-4182-ac59-3af69f2457fc" />
